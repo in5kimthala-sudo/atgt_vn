@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "limit_kmh": 50
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.7,
+            10.775
+          ],
+          [
+            106.705,
+            10.778
+          ],
+          [
+            106.71,
+            10.78
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "limit_kmh": 60
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.71,
+            10.78
+          ],
+          [
+            106.72,
+            10.782
+          ],
+          [
+            106.73,
+            10.785
+          ]
+        ]
+      }
+    }
+  ]
+}
